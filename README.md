@@ -2,9 +2,9 @@
 Power BI Assignment
 Imported "Listed of Orders ",Order Details"&"Sales Target" into power query and transformed
 "List of order" table was restricted to 500 rows from keep rows ribbon
-"order date" data typr changed to date format and "amount angd target "column data type changed to decimal number
+"order date" data type changed to date format and "amount and target "column data type changed to decimal number
 "customer name "column captilized each word
-"state and city" column was created using merged column to "CITY ,STATE"
+"state and city" column was merged using merge column to "CITY ,STATE"
 New custom column was added"Profit Margin"
 New conditional column was added"Profit Status"
 "ORDER DATA "table was created by merging"List of Orders" and "Order Details" tables
